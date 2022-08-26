@@ -1,5 +1,5 @@
 # 1514826.github.io
-This is an occult reference site: images and information.
+This was created for my own reference.
 
 Hello,
 How did you find this?
